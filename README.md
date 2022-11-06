@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Gu Chao
 - 👀 I’m interested in cloud computing, system architecture, web app / mobile app development
-- 🌱 I’m currently learning Javascript, Nodejs, React, ReactNative, Redux, HTML, CSS
+- 🌱 
